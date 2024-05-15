@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "vector": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "memory.h": "c",
+        "cub3d.h": "c",
+        "cmath": "c",
+        "__bit_reference": "c",
+        "__hash_table": "c",
+        "__split_buffer": "c",
+        "array": "c",
+        "initializer_list": "c",
+        "ios": "c",
+        "iterator": "c",
+        "string": "c",
+        "string_view": "c",
+        "unordered_map": "c",
+<<<<<<< HEAD
+=======
+        "locale": "c",
+>>>>>>> merge3_cub3d
+        "algorithm": "c"
+    }
+}
